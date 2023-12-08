@@ -7,7 +7,7 @@ import os
 import pyautogui
 import pyttsx3
 
-TOKEN = ''
+TOKEN = 'Paste your token here'
 bot = telebot.TeleBot(TOKEN)
 
 def record_audio():
